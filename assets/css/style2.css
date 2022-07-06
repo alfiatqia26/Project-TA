@@ -1,0 +1,327 @@
+#bg {
+    width: 100%;
+    height: 80vh;
+    background: url("../img/background.jpg") top center;
+    background-size: cover;
+    position: relative;
+}
+
+#bg:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#bg .container {
+    padding-top: 72px;
+}
+
+@media (max-width: 992px) {
+    #bg .container {
+        padding-top: 62px;
+    }
+}
+
+#bg h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+#bg h2 {
+    color: #eee;
+    margin: 10px 0 0 0;
+    font-size: 24px;
+}
+
+#bg .btn-get-started {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+#bg .btn-get-started:hover {
+    background: #5fcf80;
+    border: 2px solid #5fcf80;
+}
+
+@media (min-width: 1024px) {
+    #bg {
+        background-attachment: fixed;
+    }
+}
+
+@media (max-width: 768px) {
+    #bg {
+        height: 100vh;
+    }
+    #bg h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    #bg h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+
+#bg {
+    width: 100%;
+    height: 80vh;
+    background: url("../img/background.jpg") top center;
+    background-size: cover;
+    position: relative;
+}
+
+#bg:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#bg .container {
+    padding-top: 72px;
+}
+
+@media (max-width: 992px) {
+    #bg .container {
+        padding-top: 62px;
+    }
+}
+
+#bg h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+#bg h2 {
+    color: #eee;
+    margin: 10px 0 0 0;
+    font-size: 24px;
+}
+
+#bg .btn-get-started {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+#bg .btn-get-started:hover {
+    background: #5fcf80;
+    border: 2px solid #5fcf80;
+}
+
+@media (min-width: 1024px) {
+    #bg {
+        background-attachment: fixed;
+    }
+}
+
+@media (max-width: 768px) {
+    #bg {
+        height: 100vh;
+    }
+    #bg h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    #bg h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+
+#bgEkskul {
+    width: 100%;
+    height: 80vh;
+    background: url("../img/course-2.jpg") top center;
+    background-size: cover;
+    position: relative;
+}
+
+#bgEkskul:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#bgEkskul .container {
+    padding-top: 72px;
+}
+
+@media (max-width: 992px) {
+    #bgEkskul .container {
+        padding-top: 62px;
+    }
+}
+
+#bgEkskul h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+#bgEkskul h2 {
+    color: #eee;
+    margin: 10px 0 0 0;
+    font-size: 24px;
+}
+
+#bgEkskul .btn-get-started {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+#bgEkskul .btn-get-started:hover {
+    background: #5fcf80;
+    border: 2px solid #5fcf80;
+}
+
+@media (min-width: 1024px) {
+    #bgEkskul {
+        background-attachment: fixed;
+    }
+}
+
+@media (max-width: 768px) {
+    #bgEkskul {
+        height: 100vh;
+    }
+    #bgEkskul h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    #bgEkskul h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+
+#bgProgram {
+    width: 100%;
+    height: 80vh;
+    background: url("../img/course-details-tab-5.png") top center;
+    background-size: cover;
+    position: relative;
+}
+
+#bgProgram:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#bgProgram .container {
+    padding-top: 72px;
+}
+
+@media (max-width: 992px) {
+    #bgProgram .container {
+        padding-top: 62px;
+    }
+}
+
+#bgProgram h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+#bgProgram h2 {
+    color: #eee;
+    margin: 10px 0 0 0;
+    font-size: 24px;
+}
+
+#bgProgram .btn-get-started {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+#bgProgram .btn-get-started:hover {
+    background: #5fcf80;
+    border: 2px solid #5fcf80;
+}
+
+@media (min-width: 1024px) {
+    #bgProgram {
+        background-attachment: fixed;
+    }
+}
+
+@media (max-width: 768px) {
+    #bgProgram {
+        height: 100vh;
+    }
+    #bgProgram h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    #bgProgram h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
